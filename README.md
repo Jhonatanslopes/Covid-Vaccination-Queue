@@ -1,3 +1,5 @@
+![author](https://img.shields.io/static/v1?label=author&message=jhonatanslopes&color=red&style=for-the-badge&logo=<LOGO>) ![code](https://img.shields.io/static/v1?label=java&message=11.0&color=blue&style=for-the-badge&logo=<LOGO>) ![license](https://img.shields.io/static/v1?label=license&message=MIT&color=<COLOR>&style=for-the-badge&logo=<LOGO>) ![version](https://img.shields.io/static/v1?label=mysql&message=8.0&color=yellow&style=for-the-badge&logo=<LOGO>)
+
 # Covid-Vaccination-Queue
 
 Sistema para Controle de Vacinação da COVID-19.
@@ -51,5 +53,7 @@ Usuario Administrador:
   <img src="img/class_diagram.JPG" width="1000" title="img-class">
 </p>
 
-Para saber mais sobre o projeto clique no link abaixo:
+# Adicionais
+
+Para saber mais sobre o projeto clique no link abaixo para assitir o vídeo:
 https://app.animaker.com/video/KVSB02698NCWZEP7
